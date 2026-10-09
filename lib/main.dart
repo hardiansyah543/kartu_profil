@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
 
-/// Widget akar aplikasi (StatelessWidget) -> mengatur MaterialApp.
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
@@ -17,7 +16,6 @@ class MyApp extends StatelessWidget {
   }
 }
 
-/// Halaman Kartu Profil (StatelessWidget, tanpa state).
 class ProfileCardPage extends StatelessWidget {
   const ProfileCardPage({super.key});
 
