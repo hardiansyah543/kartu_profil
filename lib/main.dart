@@ -21,7 +21,7 @@ class ProfileCardPage extends StatelessWidget {
 
   // ====== Data profil (ubah sesuai identitas kamu) ======
   static const String fotoPath = 'assets/foto.jpg';
-  static const String nama = 'Hardiansyah';
+  static const String nama = 'Zulki mujitahid';
   static const String jabatan = 'Mahasiswa Sistem Informasi · Unipdu Jombang';
   static const String deskripsi =
       'Mahasiswa yang sedang belajar pemrograman mobile dengan Flutter. '
